@@ -51,8 +51,4 @@
 
 <br clear="both">
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/CaioFernandes07/CaioFernandes07/output/snake.svg" alt="Snake animation" />
-</div>
-
 ###
